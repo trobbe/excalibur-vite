@@ -1,10 +1,10 @@
-import { Engine, Loader } from "excalibur";
+import { Engine, Loader, DisplayMode } from "excalibur";
 import { Player } from "./player";
 import { Resources } from "./resources";
 
 class Game extends Engine {
     constructor() {
-      super({width: 800, height: 600});
+      super({ width: 800, height: 600, displayMode: DisplayMode.FillScreen });
     }
     initialize() {
       

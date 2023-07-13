@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
+  "name": "excalibur-vite",
   "version": "1.1.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "Excalibur test with vite",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -19,7 +19,7 @@
     "vite",
     "game-engine"
   ],
-  "author": "Erik Onarheim",
+  "author": "Thomas Robbe",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/excaliburjs/template-ts-vite/issues"
